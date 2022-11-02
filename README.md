@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dewiifjj
-- 👀 I’m interested in website developmeny
+- 👀 I’m interested in website development
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dewifajar441@gmail.com
