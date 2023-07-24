@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dewiifjj
 - 👀 I’m interested in ds
-- 🌱 I’m currently python 
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dewifajar441@gmail.com
 
